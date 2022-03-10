@@ -1,15 +1,15 @@
 ![Przykładowa strona tytułowa](./EE-dyplom.jpg)
 
-## O szablonie
+## Obout the template
 
-Szablon prac dyplomowych na Wydziale Elektrycznym PW, zgodny z Zarządzeniami JM Rektora PW: 24/2016, 43/2016, 57/2016 oraz 109/2021.
+Template for diploma theses at the Faculty of Electrical Engineering of the Warsaw University of Technology, in accordance with the Regulations of the Rector of the Warsaw University of Technology: 24/2016, 43/2016, 57/2016 and 109/2021.
 
-Większość opcji ustawiona zgodnie z zaleceniami opisanymi w Zarządzeniach. Wszystkie różnice są w ramach dopuszczalnych zakresów ingerencji w styl. Dla poprawy czytelności pracy:
+Most of the options are set according to the recommendations described in the Regulations. All the differences are within the permissible extend. To improve the readability of the work:
 
-  * zwiększone światło międzywierszowe
-  * wyróżniające się nagłówki rozdziałów
-  * wyróżnione kolorem, klikalne odnośniki
-
+   * increased inter-line light
+   * standout chapter headings
+   * highlighted in color, clickable links
+   
 ## Użycie szablonu w Overleaf
 
   * Dzięki [Overleaf](https://www.overleaf.com/), gdzie wystarczy założyć darmowe konto, można pracę dyplomową edytować w przeglądarce.
